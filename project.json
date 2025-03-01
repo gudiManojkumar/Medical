@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "build": {
+      "pythonVersion": "3.9"
+    }
+  }
+}
